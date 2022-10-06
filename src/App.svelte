@@ -1,6 +1,8 @@
 <script>
 </script>
 
+<button on:click={() => window.print()}>IMPRIMIR</button>
+
 <main>
   <header>
     <div class="logo">Logo da Empresa</div>
